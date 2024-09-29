@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sancalgary
+## 👋 Hi, I’m @sancalgary
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning SQL, Python & VBA.
 - 💞️ I’m looking to collaborate on ...
